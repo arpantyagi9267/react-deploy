@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-deploy/static/css/main.1af51dbc.chunk.css",
+    "main.js": "/react-deploy/static/js/main.684a2d4f.chunk.js",
+    "main.js.map": "/react-deploy/static/js/main.684a2d4f.chunk.js.map",
+    "runtime-main.js": "/react-deploy/static/js/runtime-main.32828bdf.js",
+    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.32828bdf.js.map",
+    "static/js/2.ed4afefb.chunk.js": "/react-deploy/static/js/2.ed4afefb.chunk.js",
+    "static/js/2.ed4afefb.chunk.js.map": "/react-deploy/static/js/2.ed4afefb.chunk.js.map",
+    "index.html": "/react-deploy/index.html",
+    "precache-manifest.caed3355fa3d936f8fc6c492e685520d.js": "/react-deploy/precache-manifest.caed3355fa3d936f8fc6c492e685520d.js",
+    "service-worker.js": "/react-deploy/service-worker.js",
+    "static/css/main.1af51dbc.chunk.css.map": "/react-deploy/static/css/main.1af51dbc.chunk.css.map",
+    "static/js/2.ed4afefb.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.ed4afefb.chunk.js.LICENSE.txt",
+    "static/media/arpan.jpg": "/react-deploy/static/media/arpan.8b312f99.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32828bdf.js",
+    "static/js/2.ed4afefb.chunk.js",
+    "static/css/main.1af51dbc.chunk.css",
+    "static/js/main.684a2d4f.chunk.js"
+  ]
+}
